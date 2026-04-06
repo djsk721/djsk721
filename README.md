@@ -1,9 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djsk721&layout=Demo&theme=compact)
+![GitHub stats](https://readme-stats-git-main-kimjunghyun696-6971s-projects.vercel.app/api?username=djsk721&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsk721&show_icons=true&theme=compact)
-
-<!---Cancel changes
-djsk721/djsk721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://readme-stats-git-main-kimjunghyun696-6971s-projects.vercel.app/api/top-langs/?username=djsk721&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=86400)
